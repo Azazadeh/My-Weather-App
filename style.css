@@ -32,6 +32,10 @@ li {
   font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
 
+footer {
+  text-align: center;
+}
+
 .weatherapp {
   border: 1px solid #dadde1;
   padding: 15px;
